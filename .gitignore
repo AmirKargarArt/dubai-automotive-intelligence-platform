@@ -4,3 +4,11 @@ __pycache__/
 09_Documentation/docx_render/
 07_Dashboard_20Q/*.zip
 07_Dashboard_20Q/*.tar.gz
+node_modules/
+**/node_modules/
+.chart-data-*/
+.submission-build/
+.vector_deps/
+*.bkp
+*.tmp
+*.log
