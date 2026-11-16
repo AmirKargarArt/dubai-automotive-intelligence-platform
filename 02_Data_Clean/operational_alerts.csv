@@ -1,0 +1,9 @@
+alert_type,branch,brand,severity,rule,value
+Inventory,Dubai Festival City,Toyota,High,Inventory days below 20,17.7
+Inventory,Al Quoz,Toyota,High,Inventory days below 20,11.1
+Inventory,Abu Dhabi Airport Road,Toyota,High,Inventory days below 20,10.5
+Service,Abu Dhabi Airport Road,All brands,Medium,On-time service below 75%,50.2
+Service,Al Quoz,All brands,Medium,On-time service below 75%,53.0
+Service,Dubai Festival City,All brands,Medium,On-time service below 75%,50.7
+Service,Sharjah,All brands,Medium,On-time service below 75%,52.7
+Service,Sheikh Zayed Road,All brands,Medium,On-time service below 75%,51.3

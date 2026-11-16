@@ -1,0 +1,3 @@
+index,indicator,unit,min,max,mean
+0,EV_and_hybrid_share,percent,4,53,23.285714285714285
+1,charging_points,count,879,30000,15439.5

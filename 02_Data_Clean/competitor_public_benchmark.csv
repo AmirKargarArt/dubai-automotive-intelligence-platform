@@ -1,0 +1,9 @@
+company,segment,brand_count,showroom_count,service_center_count,ev_relevance,used_car_capability,fleet_capability,digital_capability,source_url,source_status,notes
+Al-Futtaim Automotive,Integrated automotive ecosystem,25,NA,NA,5,5,5,5,https://www.alfuttaim.com/en/divisions/automotive/,verified_public,Official page confirms 25+ brands; sales; servicing; fleet; logistics and EV/charging ecosystem
+AW Rostamani Automotive,Integrated automotive ecosystem,8,21,30,5,5,5,5,https://www.awrgroup.com/automotive,verified_public,Official page lists Nissan Infiniti Renault Chery Zeekr smart SHIFT AUTOTRUST and NXT plus 21 showrooms and 30 service centres
+Al Tayer Motors,Multi-brand distributor,10,NA,NA,4,4,4,5,https://www.altayermotors.com/new-cars/,verified_public,Official page lists Ford Lincoln Jaguar Land Rover Kia Ferrari Maserati VinFast and DEEPAL with test-drive and online journeys
+Al Nabooda Automobiles,Premium distributor,3,NA,NA,3,3,3,3,https://alnabooda.com/al-nabooda-automobiles/,verified_public,Official page confirms Audi Porsche and Volkswagen distribution in Dubai and Northern Emirates
+Gargash Group,Luxury distributor,1,NA,NA,4,3,3,3,https://www.mercedes-benz-mena.com/dubai/en/,verified_public,Mercedes-Benz authorized distributor in Dubai Sharjah and Northern Emirates
+Al Habtoor Motors,Multi-segment distributor,6,NA,NA,3,3,4,3,https://www.habtoormotors.com/,public_pending,Public benchmark placeholder; validate brand and network details before publishing
+Al Masaood Automobiles,Regional distributor,4,NA,NA,3,3,4,3,https://www.almasaoodautomobiles.com/,public_pending,Abu Dhabi-focused competitor context; validate current portfolio before publishing
+Al Ghandi Auto,Multi-brand distributor,3,NA,NA,3,3,3,3,https://www.alghandi.com/,public_pending,Public benchmark placeholder; validate current portfolio before publishing

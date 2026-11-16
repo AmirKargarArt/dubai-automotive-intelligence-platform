@@ -1,0 +1,21 @@
+branch,brand,powertrain,on_hand_units,monthly_demand,lead_time_days
+Dubai Festival City,Toyota,Hybrid,13,22,28
+Dubai Festival City,Lexus,Hybrid,41,7,29
+Dubai Festival City,BYD,BEV,31,23,20
+Dubai Festival City,Volvo,BEV,30,21,9
+Sheikh Zayed Road,Toyota,Hybrid,34,6,27
+Sheikh Zayed Road,Lexus,Hybrid,27,16,9
+Sheikh Zayed Road,BYD,BEV,29,17,10
+Sheikh Zayed Road,Volvo,BEV,32,8,10
+Al Quoz,Toyota,Hybrid,7,19,14
+Al Quoz,Lexus,Hybrid,22,16,8
+Al Quoz,BYD,BEV,18,10,28
+Al Quoz,Volvo,BEV,43,16,28
+Abu Dhabi Airport Road,Toyota,Hybrid,7,20,11
+Abu Dhabi Airport Road,Lexus,Hybrid,37,8,19
+Abu Dhabi Airport Road,BYD,BEV,18,14,10
+Abu Dhabi Airport Road,Volvo,BEV,41,13,8
+Sharjah,Toyota,Hybrid,31,11,10
+Sharjah,Lexus,Hybrid,7,7,15
+Sharjah,BYD,BEV,43,7,26
+Sharjah,Volvo,BEV,26,14,24

@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.pyc
+09_Documentation/docx_render/
+07_Dashboard_20Q/*.zip
+07_Dashboard_20Q/*.tar.gz

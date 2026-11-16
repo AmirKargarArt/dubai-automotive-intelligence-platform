@@ -1,0 +1,10 @@
+brand,model,powertrain,price_aed,range_km_wltp,price_per_range_km
+Toyota,Corolla,ICE,76900.0,,
+Toyota,Corolla Hybrid,HEV,89900.0,,
+Toyota,RAV4 Hybrid,HEV,114900.0,,
+Toyota,Camry Hybrid,HEV,125900.0,,
+Lexus,UX300h,HEV,172000.0,,
+Lexus,NX350h,HEV,223000.0,,
+Lexus,RZ500e,BEV,255000.0,,
+Lexus,ES500e,BEV,275000.0,,
+Toyota,Land Cruiser Hybrid,HEV,345900.0,,

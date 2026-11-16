@@ -1,0 +1,14 @@
+field_name,table_name,data_type,definition,unit,source_status
+sale_date,fact_sales,date,Date of transaction,YYYY-MM-DD,To collect
+emirate,dim_location,text,Emirate or sales territory,text,To collect
+brand,dim_brand,text,Vehicle brand,text,To collect
+model,dim_model,text,Vehicle model,text,To collect
+powertrain,dim_powertrain,text,ICE HEV PHEV or BEV,text,To collect
+units_sold,fact_sales,integer,Number of vehicles sold,vehicles,To collect
+revenue_aed,fact_sales,decimal,Vehicle sales revenue,AED,To collect
+discount_aed,fact_sales,decimal,Discount applied,AED,To collect
+service_revenue,fact_service,decimal,After-sales revenue,AED,To collect
+customer_type,dim_customer,text,Retail fleet rental or corporate,text,To collect
+inventory_days,fact_inventory,decimal,Days of inventory,days,To collect
+charging_station_count,fact_ev_market,integer,Public charging points,count,To collect
+source_url,sources,text,URL or document reference,text,Required

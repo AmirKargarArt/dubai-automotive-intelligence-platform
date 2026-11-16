@@ -1,0 +1,6 @@
+model,brand,powertrain,price_aed,fuel_l_per_100km,annual_service_aed,resale_value_aed,energy_cost_5y_aed,service_cost_5y_aed,tco_5y_aed
+Toyota Corolla Hybrid,Toyota,Hybrid,89900,6.2,4500,42000,17980.0,22500,88380.0
+Toyota RAV4 Hybrid,Toyota,Hybrid,114900,5.8,5200,50000,16820.0,26000,107720.0
+BYD ATTO 3,BYD,BEV,149900,0.0,1800,62000,0.0,9000,96900.0
+Lexus UX300h,Lexus,Hybrid,172000,5.5,7000,48000,15950.0,35000,174950.0
+Volvo EX30,Volvo,BEV,189900,0.0,2200,65000,0.0,11000,135900.0

@@ -1,0 +1,10 @@
+{
+  "vehicle_rows": 15,
+  "source_rows": 15,
+  "missing_brand": 0,
+  "missing_model": 0,
+  "negative_prices": 0,
+  "verified_public_rows": 10,
+  "pending_spec_rows": 5,
+  "data_quality_status": "PASS_WITH_PENDING_PUBLIC_SPECS"
+}

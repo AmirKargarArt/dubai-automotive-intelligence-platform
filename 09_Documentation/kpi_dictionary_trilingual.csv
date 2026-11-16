@@ -1,0 +1,21 @@
+﻿kpi_id,domain,english_name,persian_name,arabic_name,definition,formula,unit,source_type,priority
+KPI-001,Sales,Total Deliveries,کل تحویل خودرو,إجمالي عمليات التسليم,Total vehicles delivered during the selected period,SUM(deliveries),vehicles,internal_or_official,High
+KPI-002,Sales,Year-over-Year Growth,رشد سالانه,النمو السنوي,Change in deliveries compared with the previous year,(current_year-previous_year)/previous_year,percent,internal_or_official,High
+KPI-003,Sales,Market Share,سهم بازار,الحصة السوقية,Company deliveries divided by total market deliveries,company_deliveries/market_deliveries,percent,market_source,High
+KPI-004,Sales,Model Mix,ترکیب مدل‌ها,مزيج الطرازات,Share of total deliveries represented by each model,model_deliveries/total_deliveries,percent,internal_or_official,Medium
+KPI-005,Sales,Lead Conversion Rate,نرخ تبدیل سرنخ,معدل تحويل العملاء المحتملين,Share of qualified leads that become sales,converted_leads/qualified_leads,percent,internal,High
+KPI-006,After-Sales,Service Retention Rate,نرخ بازگشت برای سرویس,معدل الاحتفاظ بعملاء الخدمة,Share of customers returning for a later service visit,returning_customers/eligible_customers,percent,internal,High
+KPI-007,After-Sales,Average Service Cycle Time,میانگین زمان سرویس,متوسط زمن دورة الخدمة,Average time from vehicle reception to completion,AVG(completion_time-reception_time),hours,internal,High
+KPI-008,After-Sales,First-Time Fix Rate,نرخ رفع مشکل در مراجعه اول,معدل الإصلاح من الزيارة الأولى,Share of jobs completed without a repeat visit,first_time_fixed_jobs/total_jobs,percent,internal,High
+KPI-009,After-Sales,Customer Satisfaction,رضایت مشتری,رضا العملاء,Average customer satisfaction score from service feedback,AVG(satisfaction_score),score,internal_or_reviews,High
+KPI-010,After-Sales,Service Complaint Rate,نرخ شکایت خدمات,معدل شكاوى الخدمة,Complaints per 100 service orders,complaints/service_orders*100,complaints_per_100,internal_or_reviews,Medium
+KPI-011,EV,EV Share,سهم خودروهای برقی,حصة المركبات الكهربائية,Share of BEV deliveries in total deliveries,bev_deliveries/total_deliveries,percent,internal_or_official,High
+KPI-012,EV,EV Readiness Index,شاخص آمادگی خودرو برقی,مؤشر جاهزية المركبات الكهربائية,Composite score covering model choice charging service and customer education,weighted_score_of_ev_dimensions,score_0_to_100,derived,High
+KPI-013,EV,Charging Coverage,پوشش شارژ,تغطية الشحن,Charging points available per relevant vehicle population,charging_points/ev_population,points_per_vehicle,official_or_partner,Medium
+KPI-014,EV,EV Test Drive Conversion,تبدیل تست‌درایو برقی,تحويل تجربة القيادة الكهربائية,Share of EV test drives that become purchases,ev_sales/ev_test_drives,percent,internal,High
+KPI-015,Used Cars,Used Car Trust Score,امتیاز اعتماد خودروی کارکرده,مؤشر الثقة في السيارات المستعملة,Composite score for inspection warranty price and history transparency,weighted_score_of_used_car_dimensions,score_0_to_100,derived,High
+KPI-016,Fleet,Fleet Utilization,نرخ استفاده از ناوگان,معدل استخدام الأسطول,Share of fleet capacity actively utilized,active_fleet_units/total_fleet_units,percent,internal,Medium
+KPI-017,Fleet,Fleet Cost per Kilometer,هزینه هر کیلومتر ناوگان,تكلفة الأسطول لكل كيلومتر,Total fleet operating cost divided by kilometers traveled,total_operating_cost/total_kilometers,currency_per_km,internal,High
+KPI-018,Digital,Digital Conversion Rate,نرخ تبدیل دیجیتال,معدل التحويل الرقمي,Share of digital leads completing a target action,completed_actions/digital_sessions,percent,internal_or_web_analytics,High
+KPI-019,Customer Voice,Positive Sentiment Rate,نرخ احساسات مثبت,معدل المشاعر الإيجابية,Share of customer comments classified as positive,positive_comments/total_comments,percent,reviews,Medium
+KPI-020,Competitive,Competitive Digital Score,امتیاز دیجیتال رقابتی,النتيجة الرقمية التنافسية,Comparable score for information clarity comparison booking and service journeys,weighted_score_of_digital_dimensions,score_0_to_100,derived,High

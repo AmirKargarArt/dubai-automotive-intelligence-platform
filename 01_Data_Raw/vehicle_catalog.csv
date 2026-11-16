@@ -1,0 +1,16 @@
+catalog_id,distributor,brand,model,vehicle_type,powertrain,trim,range_km_wltp,battery_kwh,max_power_kw,transmission,price_aed,market,status,source_url,source_id
+VC001,Al-Futtaim Automotive,BYD,ATTO 3,SUV,BEV,Comfort,420,60.48,150,,NA,UAE,verified_public,https://dam.alfuttaim.com/wps/wcm/connect/33b36cdc-51bd-4842-8995-9daddf317ba7/BYD%2BATTO3_MY24_UAE_Leaflet_Editable_OG.pdf,SRC008
+VC002,Al-Futtaim Automotive,BYD,ATTO 3,SUV,BEV,Premium,NA,NA,NA,,NA,UAE,model_confirmed_specs_pending,https://www.alfuttaim.com/en/our-brands/byd/,SRC002
+VC003,Al-Futtaim Electric Mobility,BYD,SEAL 7 DM-i,Sedan,PHEV,NA,NA,NA,NA,,NA,UAE,model_confirmed_specs_pending,https://www.alfuttaim.com/en/articles/al-futtaim-electric-mobility-launches-the-all-new-byd-seal-7-dm-i-hybrid-in-the-uae/,SRC009
+VC004,Al-Futtaim Automotive,BYD,HAN,Sedan,BEV,AWD,NA,NA,NA,,NA,UAE,model_confirmed_specs_pending,https://dam.alfuttaim.com/wps/wcm/connect/1d073574-26c6-4edf-ae20-8b96a0afb6c9/BYD%2BHAN%2BUAE%2BAWD_Leaflet_Editable_OG.pdf,SRC010
+VC005,Al-Futtaim Automotive,Volvo,EX30,SUV,BEV,NA,NA,NA,NA,,NA,UAE,model_confirmed_specs_pending,https://www.volvocars.com/en-ae/cars/electric-cars/,SRC011
+VC006,Al-Futtaim Automotive,Toyota,Corolla Hybrid,Sedan,HEV,2026 XLI Hybrid,NA,NA,NA,CVT,89900,UAE,verified_public,https://www.toyota.ae/en/new-cars/corolla-hybrid/,SRC012
+VC007,Al-Futtaim Automotive,Toyota,Camry Hybrid,Sedan,HEV,2026 XLE Hybrid,NA,NA,NA,CVT,125900,UAE,verified_public,https://www.toyota.ae/en/hybrid/,SRC013
+VC008,Al-Futtaim Automotive,Toyota,Land Cruiser Hybrid,SUV,HEV,2026 GXR,NA,NA,NA,Automatic,345900,UAE,verified_public,https://www.toyota.ae/en/hybrid/,SRC013
+VC009,Al-Futtaim Automotive,Toyota,RAV4 Hybrid,SUV,HEV,2026 VXR,NA,NA,NA,CVT,114900,UAE,verified_public,https://www.toyota.ae/en/hybrid/,SRC013
+VC010,Al-Futtaim Automotive,Toyota,Corolla,Sedan,ICE,2026 XLI,NA,NA,NA,CVT,76900,UAE,verified_public,https://www.toyota.ae/en/hybrid/,SRC013
+VC011,Al-Futtaim Automotive,Lexus,ES500e,Sedan,BEV,2026,NA,NA,NA,,275000,UAE,verified_public,https://www.lexus.ae/en/,SRC014
+VC012,Al-Futtaim Automotive,Lexus,RZ500e,SUV,BEV,2026 Platinum,NA,NA,NA,,255000,UAE,verified_public,https://www.lexus.ae/en/,SRC014
+VC013,Al-Futtaim Automotive,Lexus,UX300h,SUV,HEV,2026,NA,NA,NA,,172000,UAE,verified_public,https://www.lexus.ae/en/,SRC014
+VC014,Al-Futtaim Automotive,Lexus,NX350h,SUV,HEV,2026,NA,NA,NA,,223000,UAE,verified_public,https://www.lexus.ae/en/,SRC014
+VC015,Al-Futtaim Automotive,Toyota,bZ4X Touring,SUV,BEV,2026 VXR,NA,NA,NA,,NA,UAE,model_confirmed_specs_pending,https://www.toyota.ae/en/site-map/,SRC015

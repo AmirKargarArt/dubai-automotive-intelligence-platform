@@ -1,0 +1,10 @@
+year,indicator,value,unit,geography,source_id
+2023,EV_and_hybrid_share,4,percent,UAE,SRC007
+2025,EV_and_hybrid_share,5,percent,UAE,SRC007
+2030,EV_and_hybrid_share,13,percent,UAE,SRC007
+2035,EV_and_hybrid_share,22,percent,UAE,SRC007
+2040,EV_and_hybrid_share,23,percent,UAE,SRC007
+2045,EV_and_hybrid_share,43,percent,UAE,SRC007
+2050,EV_and_hybrid_share,53,percent,UAE,SRC007
+2023,charging_points,879,count,UAE,SRC007
+2050,charging_points,30000,count,UAE,SRC007

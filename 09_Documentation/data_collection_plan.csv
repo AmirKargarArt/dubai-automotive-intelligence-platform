@@ -1,0 +1,8 @@
+task_id,workstream,task,source_or_output,status,next_action
+T001,Company,Confirm Al-Futtaim business scope,SRC001,completed,Use as project anchor
+T002,Market,Collect UAE EV policy targets,SRC007,completed,Load into SQL and Power BI
+T003,Sales,Collect public model prices and specifications,Official brand sites,in_progress,Build vehicle catalog
+T004,Sales,Collect Dubai/UAE registrations by brand and model,RTA or public datasets,not_started,Search and validate dataset
+T005,After_Sales,Define service KPIs and sample dataset,Project design,not_started,Create service fact table
+T006,EV,Map charging infrastructure and adoption,DEWA/RTA/UAE policy,not_started,Collect locations and connector types
+T007,Analytics,Build SQL star schema,04_SQL,not_started,Run DDL after raw data import

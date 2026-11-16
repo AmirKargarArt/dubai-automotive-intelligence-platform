@@ -1,0 +1,11 @@
+key,english,persian,arabic,definition
+sales,Sales,فروش,المبيعات,Vehicle sales and deliveries
+after_sales,After-Sales,خدمات پس از فروش,خدمات ما بعد البيع,Service parts maintenance and repair operations
+ev_readiness,EV Readiness,آمادگی خودرو برقی,جاهزية المركبات الكهربائية,Ability of the market and operating model to support EV adoption
+customer_voice,Customer Voice,صدای مشتری,صوت العميل,Reviews complaints sentiment and customer feedback
+used_car_trust,Used Car Trust Score,امتیاز اعتماد خودروی کارکرده,مؤشر الثقة في السيارات المستعملة,Composite measure of transparency warranty inspection and pricing
+fleet_intelligence,Fleet Intelligence,هوشمندی ناوگان,ذكاء الأساطيل,Analytics for fleet sales utilization maintenance and total cost
+opportunity,Opportunity,فرصت,فرصة,Evidence-backed area for measurable improvement
+confidence,Confidence,میزان اطمینان,مستوى الثقة,Strength of evidence supporting a finding
+source,Source,منبع,المصدر,Traceable origin of a data point or claim
+total_cost_of_ownership,Total Cost of Ownership,هزینه مالکیت کل,إجمالي تكلفة الملكية,Purchase operating maintenance and resale cost over a defined period

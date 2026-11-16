@@ -1,0 +1,13 @@
+fact_id,category,metric,value,unit,entity,source_url,source_status,collected_date,analysis_use
+F001,company_scale,operating_countries,8,countries,Al-Futtaim Automotive,https://www.alfuttaim.com/en/divisions/automotive/,verified_public,11/16/2026,Market footprint
+F002,company_scale,employee_count,9000,employees,Al-Futtaim Automotive,https://www.alfuttaim.com/en/divisions/automotive/,verified_public,11/16/2026,Scale proxy
+F003,used_cars,inspection_points,99,points,Al-Futtaim Automall,https://www.alfuttaim.com/en/our-brands/al-futtaim-automall/,verified_public,11/16/2026,Quality and resale funnel
+F004,charging,max_charger_power,22,kW,Charge2MOOV,https://www.alfuttaim.com/en/our-brands/charge2moov/,verified_public,11/16/2026,Charging capacity benchmark
+F005,charging,warranty_period,5,years,Charge2MOOV,https://www.alfuttaim.com/en/our-brands/charge2moov/,verified_public,11/16/2026,Customer proposition
+F006,ev_infrastructure,uae_station_commitment,10,percent,Al-Futtaim BYD,https://www.alfuttaim.com/en/our-brands/byd/,verified_public,11/16/2026,Charging scenario input
+F007,rental_fleet,hertz_fleet_size,11000,vehicles,Hertz UAE,https://www.alfuttaim.com/en/divisions/automotive/,verified_public,11/16/2026,Fleet opportunity sizing
+F008,fleet_case,aircraft_catering_trucks,53,vehicles,Emirates Flight Catering,https://www.alfuttaim.com/en/articles/emirates-flight-catering-ekfc-advances-fleet-modernisation-programme-with-investment-in-53-aircraft-catering-trucks/,verified_public,11/16/2026,B2B fleet case
+F009,fleet_case,investment,60000000,AED,Emirates Flight Catering,https://www.alfuttaim.com/en/articles/emirates-flight-catering-ekfc-advances-fleet-modernisation-programme-with-investment-in-53-aircraft-catering-trucks/,verified_public,11/16/2026,B2B fleet case
+F010,used_cars,automall_showrooms,2,showrooms,UAE and Qatar,https://www.alfuttaim.com/en/our-brands/al-futtaim-automall/,verified_public,11/16/2026,Network footprint
+F011,policy,dubai_government_ev_hybrid_procurement,30,percent by 2030,Dubai UAE,https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/policies/transport-and-infrastructure/national-electric-vehicles-policy,verified_public,11/16/2026,Policy scenario
+F012,policy,rta_taxi_eco_target,100,percent by 2027,Dubai RTA,https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/policies/transport-and-infrastructure/national-electric-vehicles-policy,verified_public,11/16/2026,Fleet electrification scenario

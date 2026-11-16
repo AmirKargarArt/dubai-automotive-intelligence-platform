@@ -1,0 +1,6 @@
+priority,source,method,fields_to_collect,why_it_matters,limitation
+1,Google Maps business profiles,manual/API where permitted,business location rating review count date text owner response,Best local signal for branch-level service quality,Google terms and API access must be respected
+2,MotorClash,manual collection of aggregate pages,brand dealer service car ratings counts,Comparable benchmark across UAE brands,Aggregated third-party data and unknown sampling
+3,Reddit and automotive forums,manual qualitative coding,model branch theme sentiment date,Early warning signals and issue taxonomy,Self-selection bias and anecdotal evidence
+4,Company feedback forms and public contact channels,structured survey,CSAT NPS CES wait time resolution,Direct customer experience measurement,Requires first-party permission and respondent recruitment
+5,Social media comments,manual sample with URL timestamp,topic sentiment engagement,Detect recurring delivery service charging issues,Platform bias and deleted content

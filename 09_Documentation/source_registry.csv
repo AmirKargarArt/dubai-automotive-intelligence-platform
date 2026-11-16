@@ -1,0 +1,31 @@
+source_id,source_name,source_type,url,coverage,access_date,license_or_note
+SRC001,Al-Futtaim Automotive,official_company,https://www.alfuttaim.com/en/divisions/automotive/,brands services EV and mobility,11/16/2026,Public company information
+SRC002,Al-Futtaim BYD UAE,official_company,https://www.alfuttaim.com/en/our-brands/byd/,EV products charging and mobility,11/16/2026,Public company information
+SRC003,UAE National EV Policy,government,https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/policies/transport-and-infrastructure/national-electric-vehicles-policy,EV policy and targets,11/16/2026,Government source
+SRC004,Dubai RTA,government,https://www.rta.ae/,mobility and transport indicators,11/16/2026,Government source
+SRC005,AW Rostamani Automotive,official_company,https://www.awrgroup.com/automotive,sales service parts rentals and fleet,11/16/2026,Public company information
+SRC006,Mercedes-Benz Dubai Gargash,official_company,https://www.mercedes-benz-mena.com/dubai/en/,luxury automotive benchmark,11/16/2026,Public company information
+SRC007,UAE Energy Strategy 2050,government,https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/strategies-plans-and-visions/environment-and-energy,EV and hybrid targets,11/16/2026,Government source
+SRC008,Al-Futtaim Automall,official_company,https://www.alfuttaim.com/en/our-brands/al-futtaim-automall/,used cars inspection warranty finance,11/16/2026,Public company information
+SRC009,Charge2MOOV,official_company,https://www.alfuttaim.com/en/our-brands/charge2moov/,home and commercial EV charging,11/16/2026,Public company information
+SRC010,Hertz UAE,official_company,https://www.alfuttaim.com/en/our-brands/hertz/,rental leasing chauffeur and fleet management,11/16/2026,Public company information
+SRC011,Al-Futtaim Vehicle Rentals,official_company,https://www.alfuttaim.com/en/our-brands/al-futtaim-vehicle-rentals/,rental and leasing services,11/16/2026,Public company information
+SRC012,Toyota UAE,official_brand,https://www.toyota.ae/en/,models pre-owned service offers,11/16/2026,Public brand information
+SRC013,Toyota UAE locations,official_brand,https://www.toyota.ae/en/our-locations/,showrooms service centres parts and pre-owned,11/16/2026,Public brand information
+SRC014,Toyota UAE hybrid,official_brand,https://www.toyota.ae/en/hybrid/,hybrid model pricing and specifications,11/16/2026,Public brand information
+SRC015,Lexus UAE,official_brand,https://www.lexus.ae/en/,premium models hybrid and EV pricing,11/16/2026,Public brand information
+SRC016,Volvo UAE electric cars,official_brand,https://www.volvocars.com/en-ae/cars/electric-cars/,EV model and charging information,11/16/2026,Public brand information
+SRC017,Dubai RTA EV conference 2026,government,https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/organising-dubai-international-electric-vehicle-exhibition-and-conference-2026,EV ecosystem and fleet indicators,11/16/2026,Government source
+SRC018,Emirates Flight Catering fleet modernization,official_company,https://www.alfuttaim.com/en/articles/emirates-flight-catering-ekfc-advances-fleet-modernisation-programme-with-investment-in-53-aircraft-catering-trucks/,commercial fleet case,11/16/2026,Public company information
+SRC008,BYD ATTO 3 UAE specification sheet,official_product_pdf,https://dam.alfuttaim.com/wps/wcm/connect/33b36cdc-51bd-4842-8995-9daddf317ba7/BYD%2BATTO3_MY24_UAE_Leaflet_Editable_OG.pdf,model dimensions power battery and range,11/16/2026,Public product specification
+SRC009,BYD SEAL 7 DM-i launch,official_company,https://www.alfuttaim.com/en/articles/al-futtaim-electric-mobility-launches-the-all-new-byd-seal-7-dm-i-hybrid-in-the-uae/,PHEV launch confirmation,11/16/2026,Public company information
+SRC010,BYD HAN UAE specification sheet,official_product_pdf,https://dam.alfuttaim.com/wps/wcm/connect/1d073574-26c6-4edf-ae20-8b96a0afb6c9/BYD%2BHAN%2BUAE%2BAWD_Leaflet_Editable_OG.pdf,model specification,11/16/2026,Public product specification
+SRC011,Volvo Cars UAE electric range,official_brand,https://www.volvocars.com/en-ae/cars/electric-cars/,EV model range,11/16/2026,Public brand information
+SRC012,Toyota Corolla Hybrid UAE,official_product_page,https://www.toyota.ae/en/new-cars/corolla-hybrid/,price powertrain and features,11/16/2026,Public product information
+SRC013,Toyota UAE hybrid range,official_product_page,https://www.toyota.ae/en/hybrid/,model range and listed prices,11/16/2026,Public product information
+SRC014,Lexus UAE model range,official_product_page,https://www.lexus.ae/en/,model range and listed prices,11/16/2026,Public product information
+SRC015,Toyota UAE site map,official_product_page,https://www.toyota.ae/en/site-map/,model availability confirmation,11/16/2026,Public product information
+SRC016,MotorClash UAE reviews,third_party_reviews,https://motorclash.com/reviews/,aggregated dealer service and car ratings,11/16/2026,Public third-party aggregation; sampling limitations
+SRC017,Reddit DubaiPetrolHeads,customer_forum,https://www.reddit.com/r/DubaiPetrolHeads/,qualitative automotive customer discussions,11/16/2026,User-generated anecdotes; hypothesis generation only
+SRC018,Reddit Chinese Cars UAE,customer_forum,https://www.reddit.com/r/chinesecarsuae/,BYD and after-sales discussions,11/16/2026,User-generated anecdotes; hypothesis generation only
+SRC019,MechaniCar UAE reviews,third_party_reviews,https://www.mechanicar.com/united-arab-emirates/abu-dhabi/al-futtaim-automall,Automall review summaries,11/16/2026,Secondary summaries; verify original review context

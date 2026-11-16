@@ -1,0 +1,9 @@
+brand,powertrain,model_count,priced_models,avg_price_aed,avg_range_km
+BYD,BEV,3,0,,420.0
+BYD,PHEV,1,0,,
+Lexus,BEV,2,2,265000.0,
+Lexus,HEV,2,2,197500.0,
+Toyota,BEV,1,0,,
+Toyota,HEV,4,4,169150.0,
+Toyota,ICE,1,1,76900.0,
+Volvo,BEV,1,0,,
